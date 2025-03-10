@@ -1,0 +1,7 @@
+# FastAPI
+fastapi==0.115.11
+
+# Uvicorn ASGI 服务器
+uvicorn==0.34.0
+
+

@@ -16,3 +16,9 @@
 开放平台：
 - [探数API](https://www.tanshuapi.com/)
 - [nowapi]()
+
+### 运行应用
+
+```bash
+uvicorn main:app --reload
+```
