@@ -4,4 +4,5 @@ fastapi==0.115.11
 # Uvicorn ASGI 服务器
 uvicorn==0.34.0
 
-
+# 网页爬虫
+playwright==1.40.0
