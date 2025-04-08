@@ -33,3 +33,10 @@ uvicorn main:app --reload
 美联储加息日：
 
 ![image](./images/20250322104038.jpg)
+
+## 环境配置
+
+1. 复制 `.env.example` 文件并重命名为 `.env`
+2. 在 `.env` 文件中填入你的 Supabase 配置信息：
+    - SUPABASE_URL: 你的 Supabase 项目 URL
+    - SUPABASE_KEY: 你的 Supabase API 密钥

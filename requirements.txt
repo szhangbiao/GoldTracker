@@ -6,3 +6,9 @@ uvicorn==0.34.0
 
 # 网页爬虫
 playwright==1.40.0
+
+# supabase
+supabase==2.15.0
+
+# python-dotenv
+python-dotenv==1.1.0
